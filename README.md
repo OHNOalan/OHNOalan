@@ -1,4 +1,14 @@
-### Hi there 👋
+!!! Open to Work from Sep 2024 to Aug 2025
+
+🚀 Passionate 4th-year undergraduate pursuing a double major in Computer Science and Mathematics with a keen interest in Software Engineering.
+
+💼 Currently seeking challenging internships in Software Engineering for both September and January. Excited to apply theoretical knowledge gained through coursework to real-world projects and eager to contribute effectively to innovative teams.
+
+🔍 With a strong foundation in both Computer Science and Mathematics, I bring a unique blend of analytical thinking and problem-solving skills to any project. Thrive in dynamic environments where creativity and technical expertise intersect.
+
+🌟 Committed to continuous learning and growth, I am actively involved in expanding my skill set through personal projects, online courses, and industry networking.
+
+🤝 Open to exciting opportunities where I can make meaningful contributions, collaborate with passionate individuals, and further develop my expertise in the realm of Software Engineering.
 
 <!--
 **OHNOalan/OHNOalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
