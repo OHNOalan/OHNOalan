@@ -10,6 +10,7 @@
 
 🤝 Open to exciting opportunities where I can make meaningful contributions, collaborate with passionate individuals, and further develop my expertise in the realm of Software Engineering.
 
+<!-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams -->
 
 ```mermaid
 graph TD;
