@@ -46,7 +46,7 @@
   <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ohnoalan&layout=compact&langs_count=6,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d&hide=c%2B%2B"/>
 </p>
 
-<h1 align="center"> Open to Work from Sep 2024 to Aug 2025</h1>
+<h1 align="center"> Open to Work from May 2025 to Dec 2025</h1>
 
 🚀 Passionate 4th-year undergraduate pursuing a double major in Computer Science and Mathematics with a keen interest in Software Engineering.
 
